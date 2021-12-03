@@ -643,7 +643,7 @@ int main()
             fflush(stdin);
             strcpy(str,"");
 
-              printf("\nMarvellous VFS : > ");
+              printf("\nlinux VFS : > ");
 
             fgets(str,80,stdin);//scanf("%[^'n']s",str);
 
